@@ -23,7 +23,8 @@ Welcome to my Digital Forensics Course Writeups repository! This repository cont
 | Challenge Link | Writeup Link |
 |----------------|--------------|
 | [PoisonedCredentials Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) | [Writeup](https://skillful-fenugreek-e58.notion.site/PoisonedCredentials-Blue-Team-Lab-bae12e0b6e5e4ca3ac2aeb49c0880582?pvs=4) |
-| [picoGym Practice Challenges](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | [Writeup]() |
+| [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | [Writeup](https://skillful-fenugreek-e58.notion.site/Wireshark-doo-dooo-do-doo-99cc10ece3d340609d28e119f5f616f2?pvs=4) |
+| [Wireshark twoo twooo two twoo...](https://play.picoctf.org/practice/challenge/110?page=1&search=shark) | [Writeup]() |
 | [OpenWire Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | [Writeup](https://skillful-fenugreek-e58.notion.site/OpenWire-Blue-Team-Lab-6357cf28c0c54c8881b46335e8935dc8?pvs=4) |
 | [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) | [Writeup](https://skillful-fenugreek-e58.notion.site/WebStrike-Blue-Team-Lab-cfe4e1d639a8458daf6dffac0735996e?pvs=4) |
 | [PsExec Hunt Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/) | [Writeup](https://skillful-fenugreek-e58.notion.site/PsExec-Hunt-Blue-Team-Lab-dc42492025574abb8ab2f7817f77e348?pvs=4) |
