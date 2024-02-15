@@ -2,6 +2,10 @@
 
 Welcome to my Digital Forensics Course Writeups repository! This repository contains writeups for challenges I solved during my participation in the Digital Forensics Course with GDSC Ain-Shams University. The course covered topics such as network forensics, disk forensics, and Windows forensics, as well as practical challenges on various platforms like CyberDefenders, LetsDefend, PicoCTF, and Blue Team Labs.
 
+## Acknowledgements
+
+I would like to extend my gratitude to the instructor of the course [Mohamed Ewies](https://www.linkedin.com/in/mohamed-ewies-59b89a212/) for his expertise and mentorship during the Digital Forensics Course.
+
 ## Challenges Solved
 
 ### Day 1 - Network Forensics
