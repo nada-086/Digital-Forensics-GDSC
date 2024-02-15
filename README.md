@@ -16,7 +16,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | [Writeup](https://skillful-fenugreek-e58.notion.site/Port-Scan-Activity-34ebbfe21a2547b0ab1d1d7c9ef460c9?pvs=4) |
 | [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | [Writeup](https://skillful-fenugreek-e58.notion.site/Http-Basic-Auth-cdbacf2bf8cf420693c3484b4362b690?pvs=4) |
 | [Disclose The Agent](https://app.letsdefend.io/challenge/disclose-the-agent) | [Writeup](https://skillful-fenugreek-e58.notion.site/Disclose-The-Agent-f310dbce2e6043938100d9811caeeffe?pvs=4) |
-| [ShellShock Attack](https://app.letsdefend.io/challenge/shellshock-attack) | [Writeup]() |
+| [ShellShock Attack](https://app.letsdefend.io/challenge/shellshock-attack) | [Writeup](https://skillful-fenugreek-e58.notion.site/Shellshock-Attack-604f823a0b6348698b2b5c2242bc6852?pvs=4) |
 | [Network Analysis - Malware Compromise](https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908) | [Writeup]() |
 | [Network Analysis Ransomware](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) | [Writeup]() |
 | [Infection with Cobalt Strike](https://app.letsdefend.io/challenge/infection-cobalt-strike) | [Writeup]() |
