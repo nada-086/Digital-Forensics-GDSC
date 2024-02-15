@@ -10,7 +10,7 @@ Welcome to my Digital Forensics Course Writeups repository! This repository cont
 |----------------|--------------|
 | [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Tomcat-Takeover-Blue-Team-Lab-35a36180e2704a5bb8b14dd3d4a09a1d?pvs=4) |
 | [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | [Writeup](https://skillful-fenugreek-e58.notion.site/Port-Scan-Activity-34ebbfe21a2547b0ab1d1d7c9ef460c9?pvs=4) |
-| [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | [Writeup]() |
+| [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | [Writeup](https://skillful-fenugreek-e58.notion.site/Http-Basic-Auth-cdbacf2bf8cf420693c3484b4362b690?pvs=4) |
 | [Disclose The Agent](https://app.letsdefend.io/challenge/disclose-the-agent) | [Writeup]() |
 | [ShellShock Attack](https://app.letsdefend.io/challenge/shellshock-attack) | [Writeup]() |
 | [Network Analysis - Malware Compromise](https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908) | [Writeup]() |
