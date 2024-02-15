@@ -8,7 +8,7 @@ Welcome to my Digital Forensics Course Writeups repository! This repository cont
 
 | Challenge Link | Writeup Link |
 |----------------|--------------|
-| [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | [Writeup](CyberDefenders/day1/writeup.md) |
+| [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Tomcat-Takeover-Blue-Team-Lab-35a36180e2704a5bb8b14dd3d4a09a1d?pvs=4) |
 | [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | [Writeup]() |
 | [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | [Writeup]() |
 | [Disclose The Agent](https://app.letsdefend.io/challenge/disclose-the-agent) | [Writeup]() |
