@@ -41,4 +41,4 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 |----------------|--------|--------------|
 | [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | <span style="background-color:#FFFF00">In Progress</span> | [Writeup]() |
 | [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | <span style="background-color:#FF0000">Not Started</span> | [Writeup]() |
-| [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | <font color="red">Not Started</font> | [Writeup]() |
+| [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | :red_circle: | [Writeup]() |
