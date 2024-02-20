@@ -10,8 +10,8 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 ### Day 1 - Network Forensics
 
-| Challenge Link | Writeup Link |
-|----------------|--------------|
+| Challenge Link | Status | Writeup Link |
+|----------------|--------|--------------|
 | [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | <span style="background-color:#00FF00">Done</span> |[Writeup](https://skillful-fenugreek-e58.notion.site/Tomcat-Takeover-Blue-Team-Lab-35a36180e2704a5bb8b14dd3d4a09a1d?pvs=4) |
 | [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | <span style="background-color:#00FF00">Done</span> | [Writeup](https://skillful-fenugreek-e58.notion.site/Port-Scan-Activity-34ebbfe21a2547b0ab1d1d7c9ef460c9?pvs=4) |
 | [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | <span style="background-color:#00FF00">Done</span> | [Writeup](https://skillful-fenugreek-e58.notion.site/Http-Basic-Auth-cdbacf2bf8cf420693c3484b4362b690?pvs=4) |
