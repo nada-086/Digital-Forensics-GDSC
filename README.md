@@ -35,10 +35,18 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | [Writeup](https://skillful-fenugreek-e58.notion.site/HawkEye-Blue-Team-Lab-6b7f3ef0bb594ed981bd17b7d5c359d3?pvs=4) |
 | [PCAP Analysis](https://app.letsdefend.io/challenge/pcap-analysis) | [Writeup](https://skillful-fenugreek-e58.notion.site/PCAP-Analysis-e227475c0fbd4343a421cdca83d2c533?pvs=4) |
 
-### Day 3 - Disk and Memory Forensics
+### Day 3 - Windows Disk Forensics
 
 | Challenge Link | Status | Writeup Link |
 |----------------|--------|--------------|
-| [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | [Writeup]() |
+| [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | [Writeup]() |
+| [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | [Writeup]()|
+| [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
 | [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup]() |
 | [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup]() |
+
+# Day 4 - Windows Memory Forensics
+| Challenge Link | Status | Writeup Link |
+|----------------|--------|--------------|
+| [Seized Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/seized/) | [Writeup]() |
+| [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | [Writeup]() | 
