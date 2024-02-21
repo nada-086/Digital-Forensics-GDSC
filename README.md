@@ -45,7 +45,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup]() |
 | [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup]() |
 
-# Day 4 - Windows Memory Forensics
+### Day 4 - Windows Memory Forensics
 | Challenge Link | Status | Writeup Link |
 |----------------|--------|--------------|
 | [Seized Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/seized/) | [Writeup]() |
