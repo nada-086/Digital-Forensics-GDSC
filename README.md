@@ -1,6 +1,6 @@
 # Digital Forensics Course Writeups
 
-Welcome to my Digital Forensics Course Writeups repository! This repository contains writeups for challenges I solved during my participation in the Digital Forensics Course with GDSC Ain-Shams University. The course covered topics such as network forensics, disk forensics, and Windows forensics, as well as practical challenges on various platforms like CyberDefenders, LetsDefend, PicoCTF, and Blue Team Labs.
+Welcome to my Digital Forensics Course Writeups repository! This repository contains writeups for challenges I solved during my participation in the Digital Forensics Course with GDSC Ain-Shams University. The course covered topics such as network forensics, Windows memory forensics, and Windows disk forensics, as well as practical challenges on various platforms like CyberDefenders, LetsDefend, PicoCTF, and Blue Team Labs.
 
 ## Acknowledgements
 
@@ -35,14 +35,14 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | [Writeup](https://skillful-fenugreek-e58.notion.site/HawkEye-Blue-Team-Lab-6b7f3ef0bb594ed981bd17b7d5c359d3?pvs=4) |
 | [PCAP Analysis](https://app.letsdefend.io/challenge/pcap-analysis) | [Writeup](https://skillful-fenugreek-e58.notion.site/PCAP-Analysis-e227475c0fbd4343a421cdca83d2c533?pvs=4) |
 
-### Day 3 - Windows Disk Forensics
+### Day 3 - Windows Memory Forensics
 
 | Challenge Link | Writeup Link |
 |----------------|--------------|
 | [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | [Writeup]() |
 | [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | [Writeup]()|
 | [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
-| [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup]() |
+| [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup](https://skillful-fenugreek-e58.notion.site/Memory-Analysis-d91325646bc6460ca7503d71a6535627?pvs=4) |
 | [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup]() |
 
 ### Day 4 - Windows Memory Forensics
