@@ -37,8 +37,8 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 ### Day 3 - Windows Disk Forensics
 
-| Challenge Link | Status | Writeup Link |
-|----------------|--------|--------------|
+| Challenge Link | Writeup Link |
+|----------------|--------------|
 | [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | [Writeup]() |
 | [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | [Writeup]()|
 | [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
@@ -46,7 +46,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup]() |
 
 ### Day 4 - Windows Memory Forensics
-| Challenge Link | Status | Writeup Link |
-|----------------|--------|--------------|
+| Challenge Link | Writeup Link |
+|----------------|--------------|
 | [Seized Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/seized/) | [Writeup]() |
 | [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | [Writeup]() | 
