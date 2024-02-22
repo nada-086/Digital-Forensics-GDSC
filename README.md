@@ -43,7 +43,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | [Writeup]()|
 | [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
 | [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup](https://skillful-fenugreek-e58.notion.site/Memory-Analysis-d91325646bc6460ca7503d71a6535627?pvs=4) |
-| [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup]() |
+| [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup](https://skillful-fenugreek-e58.notion.site/DumpMe-Blue-Team-Lab-ce1951fef43a457698983ac8758c31a3?pvs=4) |
 
 ### Day 4 - Windows Memory Forensics
 | Challenge Link | Writeup Link |
