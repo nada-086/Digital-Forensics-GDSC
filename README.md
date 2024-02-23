@@ -39,7 +39,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 | Challenge Link | Writeup Link |
 |----------------|--------------|
-| [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | [Writeup]() |
+| [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | [Writeup](https://skillful-fenugreek-e58.notion.site/BlackEnergy-Blue-Team-Lab-fd70e1621d174422be7061dacfc3310e?pvs=4) |
 | [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | [Writeup]()|
 | [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
 | [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup](https://skillful-fenugreek-e58.notion.site/Memory-Analysis-d91325646bc6460ca7503d71a6535627?pvs=4) |
