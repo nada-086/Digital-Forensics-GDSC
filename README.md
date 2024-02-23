@@ -45,8 +45,8 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | [Writeup](https://skillful-fenugreek-e58.notion.site/Memory-Analysis-d91325646bc6460ca7503d71a6535627?pvs=4) |
 | [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | [Writeup](https://skillful-fenugreek-e58.notion.site/DumpMe-Blue-Team-Lab-ce1951fef43a457698983ac8758c31a3?pvs=4) |
 
-### Day 4 - Windows Memory Forensics
+### Day 4 - Linux Memory Forensics
 | Challenge Link | Writeup Link |
 |----------------|--------------|
 | [Seized Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/seized/) | [Writeup]() |
-| [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | [Writeup]() | 
+| [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | [Writeup](https://skillful-fenugreek-e58.notion.site/l337-S4uc3-Blue-Team-Lab-9b89310ce76c42f1b292dd2fab3ec2cb?pvs=4) | 
