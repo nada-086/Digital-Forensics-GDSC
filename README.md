@@ -11,7 +11,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 ### Day 1 - Network Forensics
 
 | Challenge Link | Status | Writeup Link |
-| :------------- | :----: |:------------ |
+| :------------- | :----: | :----------- |
 | [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Tomcat-Takeover-Blue-Team-Lab-35a36180e2704a5bb8b14dd3d4a09a1d?pvs=4) |
 | [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Port-Scan-Activity-34ebbfe21a2547b0ab1d1d7c9ef460c9?pvs=4) |
 | [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Http-Basic-Auth-cdbacf2bf8cf420693c3484b4362b690?pvs=4) |
@@ -25,7 +25,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 ### Day 2 - Network Forensics
 
 | Challenge Link | Status | Writeup Link |
-|----------------|--------|--------------|
+| :------------- | :----: | :----------- |
 | [PoisonedCredentials Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/PoisonedCredentials-Blue-Team-Lab-bae12e0b6e5e4ca3ac2aeb49c0880582?pvs=4) |
 | [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Wireshark-doo-dooo-do-doo-99cc10ece3d340609d28e119f5f616f2?pvs=4) |
 | [Wireshark twoo twooo two twoo...](https://play.picoctf.org/practice/challenge/110?page=1&search=shark) | `Pending` | [Writeup]() |
@@ -38,7 +38,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 ### Day 3 - Windows Memory Forensics
 
 | Challenge Link | Status | Writeup Link |
-|----------------|--------|--------------|
+| :------------- | :----: | :----------- |
 | [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/BlackEnergy-Blue-Team-Lab-fd70e1621d174422be7061dacfc3310e?pvs=4) |
 | [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | `Not Started` | [Writeup]()|
 | [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
@@ -47,14 +47,14 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 ### Day 4 - Network and Linux Memory Forensics
 | Challenge Link | Status | Writeup Link |
-|----------------|--------|--------------|
+| :------------- | :----: | :----------- |
 | [Seized Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/seized/) | `Not Started` |  [Writeup]() |
 | [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/l337-S4uc3-Blue-Team-Lab-9b89310ce76c42f1b292dd2fab3ec2cb?pvs=4) |
 
 
 ### Days 5 & 6 - Windows Registry Forensics
 | Challenge Link | Status | Writeup Link |
-|----------------|--------|--------------|
+| :------------- | :----: | :----------- |
 | [HireMe](https://cyberdefenders.org/blueteam-ctf-challenges/hireme/#nav-questions) | `Not Started` | [Writeup]() | 
 | [Szechuan Sauce Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/szechuan-sauce/#nav-questions) | `In Progress` | [Writeup]() |
 | [LockBit](https://app.letsdefend.io/challenge/lockbit) | `Not Started` | [Writeup]() |
