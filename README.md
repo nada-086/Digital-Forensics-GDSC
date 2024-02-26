@@ -56,7 +56,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | Challenge Link | Status | Writeup Link |
 |----------------|--------|--------------|
 | [HireMe](https://cyberdefenders.org/blueteam-ctf-challenges/hireme/#nav-questions) | `Not Started` | [Writeup]() | 
-| [Szechuan Sauce Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/szechuan-sauce/#nav-questions) | `Not Started` | [Writeup]() |
+| [Szechuan Sauce Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/szechuan-sauce/#nav-questions) | `In Progress` | [Writeup]() |
 | [LockBit](https://app.letsdefend.io/challenge/lockbit) | `Not Started` | [Writeup]() |
 | [Windows Forensics](https://app.letsdefend.io/challenge/windows-forensics) | `Not Started` | [Writeup]() |
 | [Adobe ColdFusion RCE](https://app.letsdefend.io/challenge/adobe-coldfusion-rce) | `Not Started` | [Writeup]() |
