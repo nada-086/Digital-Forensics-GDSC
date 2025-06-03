@@ -12,14 +12,14 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 | Challenge Link | Status | Writeup Link |
 | :------------- | :----: | :----------- |
-| [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | `Done` | [Writeup](./Writeups/PoisonedCredentials.md) |
-| [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Port-Scan-Activity-34ebbfe21a2547b0ab1d1d7c9ef460c9?pvs=4) |
-| [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Http-Basic-Auth-cdbacf2bf8cf420693c3484b4362b690?pvs=4) |
-| [Disclose The Agent](https://app.letsdefend.io/challenge/disclose-the-agent) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Disclose-The-Agent-f310dbce2e6043938100d9811caeeffe?pvs=4) |
-| [ShellShock Attack](https://app.letsdefend.io/challenge/shellshock-attack) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Shellshock-Attack-604f823a0b6348698b2b5c2242bc6852?pvs=4) |
-| [Network Analysis - Malware Compromise](https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Network-Analysis-Malware-Compromise-ee42b7b95d8f4f688b60e48a1fc691fa?pvs=4) |
-| [Network Analysis Ransomware](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Network-Analysis-Ransomware-2cd16b4643a64679958260da1c820b48?pvs=4) |
-| [Infection with Cobalt Strike](https://app.letsdefend.io/challenge/infection-cobalt-strike) | `Pending` | [Writeup](https://skillful-fenugreek-e58.notion.site/Infection-with-Cobalt-Strike-e100f70f8cb84de48eb19851b996297e?pvs=4) |
+| [Tomcat Takeover Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | `Done` | [Writeup](./Writeups/Tomcat%20Takeover.md) |
+| [Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity) | `Done` | [Writeup](./Writeups/Port%20Scan%20Activity.md) |
+| [Http Basic Auth.](https://app.letsdefend.io/challenge/http-basic-auth) | `Done` | [Writeup](./Writeups/Http%20Basic%20Auth.md) |
+| [Disclose The Agent](https://app.letsdefend.io/challenge/disclose-the-agent) | `Done` | [Writeup](./Writeups/Disclose%20The%20Agent.md) |
+| [ShellShock Attack](https://app.letsdefend.io/challenge/shellshock-attack) | `Done` | [Writeup](./Writeups/Shellshock%20Attack.md) |
+| [Network Analysis - Malware Compromise](https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908) | `Done` | [Writeup](./Writeups/Malware%20Compromise.md) |
+| [Network Analysis Ransomware](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) | `Done` | [Writeup](./Writeups/Network%20Analysis%20Ransomware.md) |
+| [Infection with Cobalt Strike](https://app.letsdefend.io/challenge/infection-cobalt-strike) | `Pending` | [Writeup](./Writeups/Infection%20with%20Cobalt%20Strike.md) |
 
 
 ### Day 2 - Network Forensics
@@ -27,7 +27,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | Challenge Link | Status | Writeup Link |
 | :------------- | :----: | :----------- |
 | [PoisonedCredentials Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) | `Done` | [Writeup](./Writeups/PoisonedCredentials.md) |
-| [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Wireshark-doo-dooo-do-doo-99cc10ece3d340609d28e119f5f616f2?pvs=4) |
+| [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | `Done` | [Writeup](./Writeups/Wireshark.md) |
 | [Wireshark twoo twooo two twoo...](https://play.picoctf.org/practice/challenge/110?page=1&search=shark) | `Pending` | [Writeup]() |
 | [OpenWire Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | `Done` | [Writeup](./Writeups/OpenWire.md) |
 | [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) | `Done` | [Writeup](./Writeups/WebStrike.md) |
@@ -39,17 +39,17 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 | Challenge Link | Status | Writeup Link |
 | :------------- | :----: | :----------- |
-| [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/BlackEnergy-Blue-Team-Lab-fd70e1621d174422be7061dacfc3310e?pvs=4) |
+| [BlackEnergy Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | `Done` | [Writeup](./Writeups/BlackEnergy.md) |
 | [Ransomware Attack](https://app.letsdefend.io/challenge/ransomware-attack) | `Not Started` | [Writeup]()|
-| [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Ramnit-Blue-Team-Lab-a24f8d68fa204454b6f6b58742bccd2b?pvs=4) |
-| [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Memory-Analysis-d91325646bc6460ca7503d71a6535627?pvs=4) |
-| [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/DumpMe-Blue-Team-Lab-ce1951fef43a457698983ac8758c31a3?pvs=4) |
+| [Ramnit Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) | `Done` | [Writeup](./Writeups/Ramnit.md) |
+| [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis) | `Done` | [Writeup](./Writeups/Memory%20Analysis.md) |
+| [DumpMe Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/) | `Done` | [Writeup](./Writeups/DumpMe.md) |
 
 ### Day 4 - Network and Linux Memory Forensics
 | Challenge Link | Status | Writeup Link |
 | :------------- | :----: | :----------- |
 | [Seized Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/seized/) | `Not Started` |  [Writeup]() |
-| [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/l337-S4uc3-Blue-Team-Lab-9b89310ce76c42f1b292dd2fab3ec2cb?pvs=4) |
+| [l337 S4uc3 Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | `Done` | [Writeup](./Writeups/l337%20S4uc3%20Blue%20Team%20Lab.md) |
 
 
 ### Days 5 & 6 - Windows Registry Forensics
