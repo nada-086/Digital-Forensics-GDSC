@@ -90,6 +90,8 @@
 
 19. **Latency record count for PID 1274?**  
     - Used `linux_volshell` and process offset.  
+    - ![Latency Record](./img/l337-S4uc3-19-1.png)  
+    - ![Latency Record](./img/l337-S4uc3-19-2.png)  
     - ![Latency Record](./img/l337-S4uc3-19-3.png)  
     - **Answer:** `0`
 
