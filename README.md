@@ -29,11 +29,11 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 | [PoisonedCredentials Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) | `Done` | [Writeup](./Writeups/PoisonedCredentials.md) |
 | [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Wireshark-doo-dooo-do-doo-99cc10ece3d340609d28e119f5f616f2?pvs=4) |
 | [Wireshark twoo twooo two twoo...](https://play.picoctf.org/practice/challenge/110?page=1&search=shark) | `Pending` | [Writeup]() |
-| [OpenWire Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/OpenWire-Blue-Team-Lab-6357cf28c0c54c8881b46335e8935dc8?pvs=4) |
-| [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/WebStrike-Blue-Team-Lab-cfe4e1d639a8458daf6dffac0735996e?pvs=4) |
-| [PsExec Hunt Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/PsExec-Hunt-Blue-Team-Lab-dc42492025574abb8ab2f7817f77e348?pvs=4) |
-| [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/HawkEye-Blue-Team-Lab-6b7f3ef0bb594ed981bd17b7d5c359d3?pvs=4) |
-| [PCAP Analysis](https://app.letsdefend.io/challenge/pcap-analysis) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/PCAP-Analysis-e227475c0fbd4343a421cdca83d2c533?pvs=4) |
+| [OpenWire Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | `Done` | [Writeup](./Writeups/OpenWire.md) |
+| [WebStrike Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) | `Done` | [Writeup](./Writeups/WebStrike.md) |
+| [PsExec Hunt Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/) | `Done` | [Writeup](./Writeups/PsExec%20Hunt.md) |
+| [HawkEye Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | `Done` | [Writeup](./Writeups/HawkEye.md) |
+| [PCAP Analysis](https://app.letsdefend.io/challenge/pcap-analysis) | `Done` | [Writeup](./Writeups/PCAP%20Analysis.md) |
 
 ### Day 3 - Windows Memory Forensics
 
