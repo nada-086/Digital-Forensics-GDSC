@@ -26,7 +26,7 @@ I would like to extend my gratitude to the instructor of the course [Mohamed Ewi
 
 | Challenge Link | Status | Writeup Link |
 | :------------- | :----: | :----------- |
-| [PoisonedCredentials Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/PoisonedCredentials-Blue-Team-Lab-bae12e0b6e5e4ca3ac2aeb49c0880582?pvs=4) |
+| [PoisonedCredentials Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) | `Done` | [Writeup](./Writeups/PoisonedCredentials.md) |
 | [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=1&search=shark) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/Wireshark-doo-dooo-do-doo-99cc10ece3d340609d28e119f5f616f2?pvs=4) |
 | [Wireshark twoo twooo two twoo...](https://play.picoctf.org/practice/challenge/110?page=1&search=shark) | `Pending` | [Writeup]() |
 | [OpenWire Blue Team Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | `Done` | [Writeup](https://skillful-fenugreek-e58.notion.site/OpenWire-Blue-Team-Lab-6357cf28c0c54c8881b46335e8935dc8?pvs=4) |
