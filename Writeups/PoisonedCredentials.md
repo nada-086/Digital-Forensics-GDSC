@@ -13,20 +13,20 @@ The attacker initiated their activity by exploiting benign network traffic from 
 - Open the capture in **Wireshark**, and navigate to **Statistics > Protocol Hierarchy**.
 - NetBIOS Name Service (NBNS) appears to be the only name service protocol present.
 
-![Protocol Hierarchy](../img/poisonedcredentials-1-1.png)
+![Protocol Hierarchy](./img/PoisonedCredentials-1-1.png)
 
 - Apply the following display filter to isolate relevant traffic:
   ```wireshark
   ip.addr == 192.168.232.162 && nbns
-````
+  ```
 
 * This returns a single NBNS query from the target machine.
 
-![NBNS Query](../img/poisonedcredentials-1-2.png)
+![NBNS Query](./img/PoisonedCredentials-1-2.png)
 
 **Answer:** `FILESHAARE` (note the typo in the hostname)
 
-![Mistyped Query](../img/poisonedcredentials-1-3.png)
+![Mistyped Query](./img/PoisonedCredentials-1-3.png)
 
 ---
 
@@ -41,11 +41,11 @@ Identify the IP address of the rogue machine that responded to the mistyped NBNS
 * Locate the NBNS response packet for the `FILESHAARE` query.
 * The IP address responding to the request is `192.168.232.215`.
 
-![Rogue NBNS Response](../img/poisonedcredentials-2-1.png)
+![Rogue NBNS Response](./img/PoisonedCredentials-2-1.png)
 
 **Answer:** `192.168.232.215`
 
-![Rogue IP Evidence](../img/poisonedcredentials-2-2.png)
+![Rogue IP Evidence](./img/PoisonedCredentials-2-2.png)
 
 ---
 
@@ -64,7 +64,7 @@ Find the IP address of another machine that received a poisoned NBNS response fr
   ```
 * The traffic shows another poisoned NBNS response sent to `192.168.232.176`.
 
-![Second Victim Identified](../img/poisonedcredentials-3-1.png)
+![Second Victim Identified](./img/PoisonedCredentials-3-1.png)
 
 **Answer:** `192.168.232.176`
 
@@ -85,11 +85,11 @@ Identify the username of the account compromised by the attacker using the poiso
   ```
 * Inspect the authentication packets to reveal the username.
 
-![Compromised Credentials](../img/poisonedcredentials-4-1.png)
+![Compromised Credentials](./img/PoisonedCredentials-4-1.png)
 
 **Answer:** `janesmith`
 
-![Username Revealed](../img/poisonedcredentials-4-2.png)
+![Username Revealed](./img/PoisonedCredentials-4-2.png)
 
 ---
 
@@ -104,11 +104,11 @@ Determine the hostname of the machine the attacker accessed through SMB.
 * Continue reviewing SMB traffic from the rogue machine (`192.168.232.215`).
 * The SMB session reveals the hostname: `ACCOUNTINGPC`.
 
-![Hostname Discovery](../img/poisonedcredentials-5-1.png)
+![Hostname Discovery](./img/PoisonedCredentials-5-1.png)
 
 **Answer:** `ACCOUNTINGPC`
 
-![Accessed Host](../img/poisonedcredentials-5-2.png)
+![Accessed Host](./img/PoisonedCredentials-5-2.png)
 
 ---
 
